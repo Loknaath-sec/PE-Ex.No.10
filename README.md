@@ -1,6 +1,6 @@
 # Ex.No.10 
 
-## Aim: Business Reports and Case Studies with Prompt Patterns
+Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
 ## Date: 22/10/2025
 ## Reg No: 212223240080
